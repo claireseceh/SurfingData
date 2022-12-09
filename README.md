@@ -7,4 +7,4 @@ We want, thanks to data, to understand why some surf spots are so famous and if 
 #
 Stay tuned and feel free to contribute to this project!
 
-Follow us on instagram @surfing_data
+Follow us on instagram *@surfing_data*
