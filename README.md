@@ -1,4 +1,4 @@
-# What is the best surf spot in France?
+# Where is the best surf spot in France?
 
 **Surfing data** is an open source project designed to understand what is the best surf spot in France (metropolitan area only).
 
